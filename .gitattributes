@@ -5,4 +5,4 @@
 *.xml linguist-detectable=false
 *.java linguist-detectable=true
 *.json linguist-detectable=true
-*.asp.net linguist-detectable=false
+*.aspx linguist-detectable=false
