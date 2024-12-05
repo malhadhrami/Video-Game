@@ -1,10 +1,8 @@
-*.csharp linguist-detectable=true  
-*.css linguist-detectable=true  
-*.js linguist-detectable=true  
-*.html linguist-detectable=true  
-*.xml linguist-detectable=false
-*.java linguist-detectable=true
-*.json linguist-detectable=true
-*.aspx linguist-detectable=false
-*.rb linguist-language=Java
-
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.java linguist-language=Java
+*.js linguist-language=JavaScript
+*.cs linguist-language=C#
+*.aspx linguist-language=ASP.NET
+*.cshtml linguist-language=ASP.NET
+*.json linguist-language=JSON
