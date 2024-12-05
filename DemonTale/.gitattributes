@@ -1,3 +1,5 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
-*.html linguist-detectable=false
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
 
