@@ -4,5 +4,4 @@
 *.js linguist-language=JavaScript
 *.cs linguist-language=C#
 *.aspx linguist-language=ASP.NET
-*.cshtml linguist-language=ASP.NET
 *.json linguist-language=JSON
